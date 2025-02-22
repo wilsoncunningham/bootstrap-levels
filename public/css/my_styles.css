@@ -31,3 +31,135 @@
 .scary-button:active {
   background-color: blue;
 }
+
+.secondary-button {
+  background-color: grey;
+}
+
+.secondary-button:hover {
+  background-color: rgb(100,100,100);
+}
+
+.secondary-button:active {
+  background-color: grey;
+}
+
+.success-button {
+  background-color: rgb(15, 99, 15);
+}
+
+.success-button:hover {
+  background-color: rgb(31, 78, 31);
+}
+
+.success-button:active {
+  background-color: rgb(15, 99, 15);
+}
+
+.danger-button {
+  background-color: red;
+}
+
+.danger-button:hover {
+  background-color: darkred;
+}
+
+.danger-button:active {
+  background-color: red;
+}
+
+.warning-button {
+  background-color: goldenrod;
+}
+
+.warning-button:hover {
+  background-color: rgb(230, 238, 71);
+}
+
+.warning-button:active {
+  background-color: goldenrod;
+}
+
+.info-button {
+  background-color: rgb(15, 99, 15);
+}
+
+.info-button:hover {
+  background-color: rgb(42, 217, 217);
+}
+
+.info-button:active {
+  background-color: rgb(15, 99, 15);
+}
+
+
+.unobtrusive-button {
+  background-color: white;
+  padding: 6px;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 6px;
+  box-shadow: 0px 0px 2px -1px rgba(0, 0, 0, 0.64) inset;
+  -webkit-box-shadow: 0px 0px -1px 2px rgba(0, 0, 0, 0.64) inset;
+  -moz-box-shadow: 0px 0px 2px -1px rgba(0, 0, 0, 0.64) inset;
+}
+
+.fancy-button-unobtrusive {
+  color: blue;
+  border-color: blue
+}
+
+.fancy-button-unobtrusive:hover {
+  color: white;
+  background-color: blue;
+}
+
+.secondary-button-unobtrusive {
+  color: blue;
+  border-color: blue
+}
+
+.secondary-button-unobtrusive:hover {
+  color: white;
+  background-color: blue;
+}
+
+.success-button-unobtrusive {
+  color: blue;
+  border-color: blue
+}
+
+.success-button-unobtrusive:hover {
+  color: white;
+  background-color: blue;
+}
+
+.danger-button-unobtrusive {
+  color: blue;
+  border-color: blue
+}
+
+.danger-button-unobtrusive:hover {
+  color: white;
+  background-color: blue;
+}
+
+.warning-button-unobtrusive {
+  color: blue;
+  border-color: blue
+}
+
+.warning-button-unobtrusive:hover {
+  color: white;
+  background-color: blue;
+}
+
+.info-button-unobtrusive {
+  color: blue;
+  border-color: blue
+}
+
+.info-button-unobtrusive:hover {
+  color: white;
+  background-color: blue;
+}
